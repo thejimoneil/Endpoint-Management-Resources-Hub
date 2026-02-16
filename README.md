@@ -21,7 +21,7 @@ This repository serves as a comprehensive knowledge base for IT professionals wo
 - **💡 Community Resources** - Blogs, forums, and expert insights from Microsoft MVPs and community leaders
 - **🛠️ Tools & Utilities** - Practical tools, scripts, and automation solutions
 - **🔐 Security & Compliance** - Security baselines, compliance frameworks, and best practices
-- **🤝 Networking Opportunities** - User groups, events, podcasts, and social media communities
+- **🤝 Networking Opportunities** - User groups, conferences, webinars, media/podcasts, and community tools
 - **🔧 Troubleshooting Guides** - Support resources and troubleshooting techniques
 
 ---
@@ -53,7 +53,7 @@ The main resource collection is available in **[Resources.md](Resources.md)**, w
 - **Microsoft Intune** - Modern cloud-based endpoint management
 - **Configuration Manager (SCCM/ConfigMgr)** - On-premises and hybrid management solutions
 - **PowerShell** - Scripting and automation for endpoint management
-- **Community & Networking** - Forums, social media, podcasts, and events
+- **Community & Networking** - Forums, user groups, conferences, media/podcasts, webinars, and community tools
 - **Security & Compliance** - Security baselines and compliance frameworks
 - **Troubleshooting & Support** - Diagnostic tools and support resources
 - **Additional Tools** - Automation, monitoring, and DevOps integration
@@ -81,7 +81,7 @@ We believe in the power of community! Your contributions help make this resource
 - **Community Content** - Blogs, forums, and expert insights
 - **Tools & Scripts** - Practical utilities that solve real problems
 - **Official Resources** - Microsoft documentation and official tools
-- **Networking Opportunities** - User groups, events, and communities
+- **Networking Opportunities** - User groups, conferences, webinars, media/podcasts, and community tools
 
 #### 📝 Formatting Standards
 
