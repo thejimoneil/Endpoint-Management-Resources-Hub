@@ -165,7 +165,6 @@ A comprehensive collection of educational, informational, and networking resourc
 - **[Microsoft Endpoint Manager User Group (MEMUG)](https://memug.com/)** - Virtual and in-person user groups worldwide
 - **[Local Microsoft User Groups](https://www.meetup.com/topics/microsoft/)** - Find local meetups via Meetup.com
 - **[PowerShell User Groups](https://www.meetup.com/topics/powershell/)** - PowerShell-focused community groups
-- **[Cloud & Datacenter Management User Group](https://www.linkedin.com/groups/)** - Professional networking groups
 
 ### Conferences
 
