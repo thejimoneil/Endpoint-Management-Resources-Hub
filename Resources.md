@@ -25,8 +25,11 @@ A comprehensive collection of educational, informational, and networking resourc
 - [Community & Networking](#community--networking)
   - [Forums & Discussion Groups](#forums--discussion-groups)
   - [Social Media](#social-media)
-  - [Podcasts & Videos](#podcasts--videos)
-  - [User Groups & Events](#user-groups--events)
+  - [User Groups](#user-groups)
+  - [Conferences](#conferences)
+  - [Media & Podcasts](#media--podcasts)
+  - [Webinars](#webinars)
+  - [Community Tools](#community-tools)
 - [Security & Compliance](#security--compliance)
 - [Troubleshooting & Support](#troubleshooting--support)
 - [Additional Tools](#additional-tools)
@@ -157,20 +160,44 @@ A comprehensive collection of educational, informational, and networking resourc
   - [@jannikreinhard](https://twitter.com/jannikreinhard) - Microsoft MVP
   - [@MrTechGuy_](https://twitter.com/MrTechGuy_) - Ben Reader, Intune MVP
 
-### Podcasts & Videos
+### User Groups
+
+- **[Microsoft Endpoint Manager User Group (MEMUG)](https://memug.com/)** - Virtual and in-person user groups worldwide
+- **[Local Microsoft User Groups](https://www.meetup.com/topics/microsoft/)** - Find local meetups via Meetup.com
+- **[PowerShell User Groups](https://www.meetup.com/topics/powershell/)** - PowerShell-focused community groups
+
+### Conferences
+
+- **[Microsoft Ignite](https://ignite.microsoft.com/)** - Annual flagship Microsoft conference
+- **[Midwest Management Summit (MMS)](https://mmsmoa.com/)** - Premier ConfigMgr/Intune conference
+- **[Microsoft Build](https://build.microsoft.com/)** - Annual developer conference with endpoint management content
+- **[IT/Dev Connections](https://www.itdevconnections.com/)** - Multi-track IT conference
+- **[BITSConf](https://www.bitsconf.com/)** - IT professionals conference
+
+### Media & Podcasts
 
 - **[Intune Training Videos](https://www.youtube.com/c/IntuneTraining)** - Dedicated Intune YouTube channel
 - **[John Bryntze YouTube Channel](https://www.youtube.com/@JohnBryntze)** - Intune and M365 content
 - **[Microsoft Mechanics](https://www.youtube.com/user/OfficeGarageSeries)** - Official Microsoft technical content
 - **[MS Endpoint Manager Podcast](https://www.msendpointmgr.com/podcast/)** - Regular podcast on endpoint management
-- **[RunAsRadio](https://www.runasradio.com/)** - IT pro podcast
+- **[RunAsRadio](https://www.runasradio.com/)** - IT pro podcast featuring endpoint management topics
+- **[Intune.Training YouTube](https://www.youtube.com/@IntuneTraining)** - Training videos and walkthroughs
+- **[MSEndpointMgr YouTube](https://www.youtube.com/@MSEndpointMgr)** - Community content and how-tos
 
-### User Groups & Events
+### Webinars
 
-- **[Microsoft Ignite](https://ignite.microsoft.com/)** - Annual Microsoft conference
-- **[Microsoft Endpoint Manager User Group](https://memug.com/)** - Virtual and in-person user groups
-- **[Local Microsoft User Groups](https://www.meetup.com/topics/microsoft/)** - Find local meetups
-- **[Midwest Management Summit (MMS)](https://mmsmoa.com/)** - Premier ConfigMgr/Intune conference
+- **[Microsoft Intune Webinars](https://aka.ms/IntuneWebinars)** - Official Microsoft Intune webinar series
+- **[Microsoft Tech Community Events](https://techcommunity.microsoft.com/t5/events/ct-p/Events)** - Regular technical webinars and events
+- **[WinAdmins Community Calls](https://winadmins.io/)** - Community-led webinars and discussions
+- **[Intune Customer Success Webinars](https://techcommunity.microsoft.com/t5/intune-customer-success/bg-p/IntuneCustomerSuccess)** - Best practices and feature deep-dives
+
+### Community Tools
+
+- **[WinAdmins Tools Collection](https://winadmins.io/tools)** - Curated list of community tools
+- **[MSEndpointMgr Tools](https://msendpointmgr.com/tools/)** - Free community tools and utilities
+- **[Intune Toolkit by Andrew Taylor](https://andrewstaylor.com/tools/)** - Collection of automation scripts and tools
+- **[PSAppDeployToolkit](https://psappdeploytoolkit.com/)** - PowerShell-based application deployment framework
+- **[ModernWorkplace.Tools](https://modernworkplace.tools/)** - Collection of M365 and Intune utilities
 
 ---
 
