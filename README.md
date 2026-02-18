@@ -32,10 +32,10 @@ This repository serves as a comprehensive knowledge base for IT professionals wo
 
 If you're new to Endpoint Management:
 
-1. Start with the **[Microsoft Intune Documentation](https://learn.microsoft.com/en-us/mem/intune/)** to understand the basics
-2. Explore the **[Learning Paths & Certifications](#)** section in [Resources.md](Resources.md) for structured learning
-3. Join the **[WinAdmins Discord](https://aka.ms/winadmins)** community to connect with peers
-4. Follow key blogs listed in the **Blogs & Community Sites** section for practical insights
+1. Start with the **[Official Resources](Resources.md#official-resources)** section in [Resources.md](Resources.md) to find Microsoft documentation and learning paths
+2. Join community **[Forums & Discussion Groups](Resources.md#forums--discussion-groups)** to connect with peers
+3. Follow key **[Blogs](Resources.md#blogs)** for practical insights from community experts
+4. Check out **[Media & Podcasts](Resources.md#media--podcasts)** for video tutorials and training content
 
 ### For Experienced Professionals
 
@@ -48,15 +48,16 @@ If you're new to Endpoint Management:
 
 ## 📋 Repository Contents
 
-The main resource collection is available in **[Resources.md](Resources.md)**, which includes:
+The main resource collection is available in **[Resources.md](Resources.md)**, organized by resource type:
 
-- **Microsoft Intune** - Modern cloud-based endpoint management
-- **Configuration Manager (SCCM/ConfigMgr)** - On-premises and hybrid management solutions
-- **PowerShell** - Scripting and automation for endpoint management
-- **Community & Networking** - Forums, user groups, conferences, media/podcasts, webinars, and community tools
-- **Security & Compliance** - Security baselines and compliance frameworks
-- **Troubleshooting & Support** - Diagnostic tools and support resources
-- **Additional Tools** - Automation, monitoring, and DevOps integration
+- **User Groups** - Virtual and in-person community groups worldwide
+- **Conferences** - Annual conferences and industry events
+- **Media & Podcasts** - Videos, YouTube channels, and podcasts
+- **Forums & Discussion Groups** - Community forums and discussion platforms
+- **Webinars** - Online training sessions and virtual events
+- **Blogs** - Community blogs and expert insights
+- **Community Tools** - Scripts, utilities, and automation tools
+- **Official Resources** - Microsoft documentation, certifications, and official tools
 
 👉 **[View the Full Resource Collection →](Resources.md)**
 
