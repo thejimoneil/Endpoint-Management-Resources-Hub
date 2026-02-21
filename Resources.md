@@ -22,31 +22,42 @@ A comprehensive collection of educational, informational, and networking resourc
 
 ## User Groups
 
-- **[Microsoft Endpoint Manager User Group (MEMUG)](https://memug.com/)** - Virtual and in-person user groups worldwide
-- **[Local Microsoft User Groups](https://www.meetup.com/topics/microsoft/)** - Find local meetups via Meetup.com
-- **[PowerShell User Groups](https://www.meetup.com/topics/powershell/)** - PowerShell-focused community groups
-
+- **[Twin Cities Systems Management User Group (TCSMUG)](https://tcsmug.org)** - In-Person only user group that meets monthly covering a wide variety of endpiont management technolgies. Hosted at Microsft Technology Center in Edina, MN **[Join our Discord](https://discord.gg/QZwbW9Z6ya)**
+- **[Northwest System Center User Group (NWSCUG)](https://nwscug.org/)** - Virtual and in-person user group hosted at Microsoft Technology Center in Bellevue, WA
+- **[Research Triangle PowerShell Users Group](https://www.meetup.com/research-triangle-powershell-users-group/)** - The Research Triangle PowerShell Users Group is a community of IT administrators, engineers, managers, devops engineers, developers and anyone that has the interest to learn more about PowerShell and automation.
+- **[World of EUC](https://worldofeuc.org/)** - Various meetups around the US and Europe
+- **[Workplace Ninjas User-Group UK](https://www.meetup.com/wpninjasuk/)** - We aim to bring together like-minded people to discuss and learn about Microsoft Cloud Management, Security, Identity and Endpoints.
+- **[Workplace Ninjas User-Group NL](https://nl.wpninjas.global/)** - Our goal is to bring the crowd of endpoint management and security ninjas together to share their knowledge and learn together. This covers topics around management of endpoints with Configuration Manager and Intune, as well virtual desktops and the complete security stack of Microsoft.
 ---
 
 ## Conferences
 
+- **[Midwest Management Summit (MMS)](https://mmsmoa.com/)** - Premier ConfigMgr/Intune and all things endpoint management conference. Takes place the first week in May at the Mall of America (4 days) and in the Fall at varous locations around the United States (3 days).
+- **[Workpalce Ninjas US](https://workplaceninjas.us/)** - 2 day enpoint management confrence
 - **[Microsoft Ignite](https://ignite.microsoft.com/)** - Annual flagship Microsoft conference
-- **[Midwest Management Summit (MMS)](https://mmsmoa.com/)** - Premier ConfigMgr/Intune conference
 - **[Microsoft Build](https://build.microsoft.com/)** - Annual developer conference with endpoint management content
-- **[IT/Dev Connections](https://www.itdevconnections.com/)** - Multi-track IT conference
-- **[BITSConf](https://www.bitsconf.com/)** - IT professionals conference
+- **[PowerShell + DevOps Global Summit](https://www.powershellsummit.org/)** - The gathering of PowerShell and DevOps professionals and enthusiasts. 3 day event happening yearly in Bellevue, WA
+ 
 
 ---
 
 ## Media & Podcasts
 
-- **[Intune Training Videos](https://www.youtube.com/c/IntuneTraining)** - Dedicated Intune YouTube channel
-- **[John Bryntze YouTube Channel](https://www.youtube.com/@JohnBryntze)** - Intune and M365 content
+- **[ViaMonstra Online Academy](https://www.youtube.com/c/IntuneTraining)** - Office hours live every Wednesday at 4:30pm central. The home for evergreen training.Offering courses on ConfigMgr, MDT, Intune, Azure, PowerShell, MDT, and More!
+- **[John Savill's Technical Training](https://www.youtube.com/@NTFAQGuy)** - This channel focuses on videos designed to help you learn. Big focus on Azure, AI, DevOps, PowerShell and other Microsoft technologies but also some virtual mentoring content! 
+- **[Get Rubix aka Steve Weiner](https://www.youtube.com/@getrubix)** - Intune focused channel with a fair bit of humor thrown in.
+- **[Dean Ellerby MVP](https://www.youtube.com/@DeanEllerbyMVP)** - A mixture of Microsoft Intune Training Content and Microsoft Security Training Content. 
+- **[Patch My PC](https://www.youtube.com/@PatchMyPC)** - Check you Patch Tuesday for patching related videos, Patch Me if You Can for super deep-dives, plus an archive of great ConfigMgr tutorials.
+- **[Recast Software](https://www.youtube.com/@RecastSoftware)** - Published webinars of Intune and ConfigMgr content
+- **[Diary of a Sysadmin](https://www.youtube.com/@DiaryofSysadmin)** - Fabian does a great job of interviewing people in the community highliting career journeys and day in the life type stories
 - **[Microsoft Mechanics](https://www.youtube.com/user/OfficeGarageSeries)** - Official Microsoft technical content
-- **[MS Endpoint Manager Podcast](https://www.msendpointmgr.com/podcast/)** - Regular podcast on endpoint management
+- **[PowerShell Podcast/PDQ](https://www.youtube.com/@pdq/videos)** - Andrew Pla hosts the Powershell Pocast and the content is hosted on PDQ's youtube channel
+- **[Research Triangle PowerShell User-Group Channel](https://www.youtube.com/@RTPSUG/videos)** - Recorded user-group meetings
 - **[RunAsRadio](https://www.runasradio.com/)** - IT pro podcast featuring endpoint management topics
 - **[Intune.Training YouTube](https://www.youtube.com/@IntuneTraining)** - Training videos and walkthroughs
 - **[MSEndpointMgr YouTube](https://www.youtube.com/@MSEndpointMgr)** - Community content and how-tos
+- **[Doug Finke](https://www.youtube.com/@DougFinke)** - Doug does a lot of great content surrounding PowerShell and AI. Creator of PSAI.
+- **[Merill Fernando YouTube](https://www.youtube.com/@merillx)** - Weekly podcast on identity and security
 
 ---
 
@@ -62,10 +73,9 @@ A comprehensive collection of educational, informational, and networking resourc
 
 ## Webinars
 
-- **[Microsoft Intune Webinars](https://aka.ms/IntuneWebinars)** - Official Microsoft Intune webinar series
-- **[Microsoft Tech Community Events](https://techcommunity.microsoft.com/t5/events/ct-p/Events)** - Regular technical webinars and events
-- **[WinAdmins Community Calls](https://winadmins.io/)** - Community-led webinars and discussions
-- **[Intune Customer Success Webinars](https://techcommunity.microsoft.com/t5/intune-customer-success/bg-p/IntuneCustomerSuccess)** - Best practices and feature deep-dives
+- **[Patch My PC Live Webinars and Events](https://patchmypc.com/events/)** - Join the Patch My PC team in upcoming Webinars, Ask Us Anything Sessions, Conferences and User Groups. Subscribe to our events email list to be notified of upcoming events and webinars.
+- **[Recast Webinars & Technical Trainings](https://www.recastsoftware.com/resources/webinars-trainings/)** - We support the SysAdmin community through endpoint management webinars led by engineers, Microsoft MVPs, and industry experts. Check back often to see what’s coming up.
+- **[2Pint Software events and webinars](https://2pintsoftware.com/events/list)** - 2Pint Software events calendar, featuring upcoming online webinars and in-person industry events. Catch up on what you missed with on-demand replays of previous sessions.
 
 ---
 
@@ -75,26 +85,20 @@ A comprehensive collection of educational, informational, and networking resourc
 
 - **[Intune Customer Success Blog](https://techcommunity.microsoft.com/t5/intune-customer-success/bg-p/IntuneCustomerSuccess)** - Official Microsoft Tech Community blog
 
-### Community Blogs - Intune & Endpoint Management
+### Community Blogs
 
 - **[MSEndpointMgr.com](https://msendpointmgr.com/)** - Comprehensive blog by Microsoft MVPs (formerly SCConfigMgr)
 - **[Oliver Kieselbach's Blog](https://oliverkieselbach.com/)** - Deep technical insights on Intune
 - **[Peter van der Woude's Blog](https://www.petervanderwoude.nl/)** - Extensive coverage of Intune and ConfigMgr
 - **[Call4Cloud.nl](https://call4cloud.nl/)** - Creative and detailed Intune guides by Rudy Ooms
 - **[Andrew Taylor's Blog](https://andrewstaylor.com/)** - Automation and scripting for Intune
-- **[Petri.com Intune Section](https://petri.com/category/microsoft-intune/)** - News and how-to guides
-- **[Insentra Blog](https://insentragroup.com/au/insights/)** - Enterprise deployment insights
-
-### Community Blogs - Configuration Manager
-
 - **[System Center Dudes](https://www.systemcenterdudes.com/)** - Community blog with extensive guides
+- **[Rod's Blog](https://rodtrent.substack.com/)** - Rod Trent writes on everything from Security to AI to KQL to fitness tracking
 - **[Anoop C Nair's Blog](https://www.anoopcnair.com/)** - Microsoft MVP with detailed ConfigMgr content
 - **[Niall Brady's Blog (Windows Noob)](https://www.windows-noob.com/)** - Step-by-step tutorials
 - **[Prajwal Desai's Blog](https://www.prajwaldesai.com/)** - ConfigMgr and Intune guides
 - **[GARYTOWN ConfigMgr Blog](https://garytown.com/)** - Scripts, guides, and community content
-
-### Community Blogs - PowerShell
-
+- **[Merrill.net](https://blog.merill.net/)** - Identity, Graph, and creator of some serously awesome tools
 - **[PowerShell.org](https://powershell.org/)** - Community resources and forums
 - **[PowerShell Explained](https://powershellexplained.com/)** - Comprehensive guides by Kevin Marquette
 - **[AdamTheAutomator](https://adamtheautomator.com/powershell/)** - PowerShell tutorials and guides
@@ -103,10 +107,13 @@ A comprehensive collection of educational, informational, and networking resourc
 
 ## Community Tools
 
-### Intune Tools
+### Intune/Entra/Azure Tools
 
+- **[Graph X-Ray](https://graphxray.merill.net/)** - Browser extension created by Merill that shows actions in the console as Graph API calls
+- **[CMD.MS](https://cmd.ms/)** - All of the Microsoft portals in one easy CMD, another tool by Merill
+- **[IntuneWin32App](https://github.com/MSEndpointMgr/IntuneWin32App)** - A fantastic Powershell module for creating and managing win32 apps in Intune by Nickolaj Andersen
+- **[Intune Toolkit by Andrew Taylor](https://andrewstaylor.com/tools/)** - Collection of automation scripts and tools
 - **[Microsoft Intune App Wrapping Tool](https://learn.microsoft.com/en-us/mem/intune/developer/apps-prepare-mobile-application-management)** - Wrap apps for MAM
-- **[Intune Management Extension Log Analyzer](https://github.com/MSEndpointMgr/IntuneManagementExtension)** - Analyze IME logs
 - **[IntuneWin App Utility](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool)** - Package Win32 apps for Intune
 - **[PSIntuneAuth](https://github.com/MSEndpointMgr/MSGraphRequest)** - PowerShell module for Intune authentication
 - **[Intune PowerShell SDK](https://github.com/microsoftgraph/Intune-PowerShell-SDK)** - Official PowerShell SDK
@@ -137,9 +144,9 @@ A comprehensive collection of educational, informational, and networking resourc
 
 ### General Community Tools
 
+- **[Add Remove Programs](https://addremoveprograms.com/)** - An great resource for enterprise app packaging with a collection of nearly 9,000 apps. The site catalogs critical app info including install strings
 - **[WinAdmins Tools Collection](https://winadmins.io/tools)** - Curated list of community tools
 - **[MSEndpointMgr Tools](https://msendpointmgr.com/tools/)** - Free community tools and utilities
-- **[Intune Toolkit by Andrew Taylor](https://andrewstaylor.com/tools/)** - Collection of automation scripts and tools
 - **[PSAppDeployToolkit](https://psappdeploytoolkit.com/)** - PowerShell-based application deployment framework
 - **[ModernWorkplace.Tools](https://modernworkplace.tools/)** - Collection of M365 and Intune utilities
 - **[AutoPilot](https://learn.microsoft.com/en-us/mem/autopilot/windows-autopilot)** - Modern device provisioning
