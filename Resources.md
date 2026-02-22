@@ -103,6 +103,9 @@ A comprehensive collection of educational, informational, and networking resourc
 - **[PowerShell.org](https://powershell.org/)** - Community resources and forums
 - **[PowerShell Explained](https://powershellexplained.com/)** - Comprehensive guides by Kevin Marquette
 - **[AdamTheAutomator](https://adamtheautomator.com/powershell/)** - PowerShell tutorials and guides
+- **[Out of Office Hours](https://oofhours.com/)** - Michael Niehaus' technology ramblings
+- **[Deployment Research](https://www.deploymentresearch.com/)** - A site dedicated to sharing information and guidance around System Center, OS deployment, migration and more
+- **[4sysops](https://4sysops.com/)** - Covering the latest technologies in system administration, cloud computing, and AI ops
 
 ---
 
@@ -113,43 +116,48 @@ A comprehensive collection of educational, informational, and networking resourc
 - **[Graph X-Ray](https://graphxray.merill.net/)** - Browser extension created by Merill that shows actions in the console as Graph API calls
 - **[CMD.MS](https://cmd.ms/)** - All of the Microsoft portals in one easy CMD, another tool by Merill
 - **[IntuneWin32App](https://github.com/MSEndpointMgr/IntuneWin32App)** - A fantastic Powershell module for creating and managing win32 apps in Intune by Nickolaj Andersen
-- **[Intune Toolkit by Andrew Taylor](https://andrewstaylor.com/tools/)** - Collection of automation scripts and tools
+- **[EUC Toolbox by Andrew Taylor](https://euctoolbox.com/)** - Suite of free apps we have you covered from initial tenant setup, through to management and monitoring
 - **[Microsoft Intune App Wrapping Tool](https://learn.microsoft.com/en-us/mem/intune/developer/apps-prepare-mobile-application-management)** - Wrap apps for MAM
 - **[IntuneWin App Utility](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool)** - Package Win32 apps for Intune
 - **[PSIntuneAuth](https://github.com/MSEndpointMgr/MSGraphRequest)** - PowerShell module for Intune authentication
-- **[Intune PowerShell SDK](https://github.com/microsoftgraph/Intune-PowerShell-SDK)** - Official PowerShell SDK
 - **[IntuneBackupAndRestore](https://github.com/jseerden/IntuneBackupAndRestore)** - Backup and restore Intune configurations
+- **[SyncML Viewer](https://oliverkieselbach.com/2019/10/11/windows-10-mdm-client-activity-monitoring-with-syncml-viewer/)** - SyncML Viewer will show in real time all SyncML xml-based representation protocol information, exchanged between the Windows 10 client and the management system (Intune)
+- **[IntuneDeviceDetailsGUI](https://github.com/petripaavola/IntuneDeviceDetailsGUI#intune-device-details-gui-ver-2974-updated-1932023)** - The "Resultant Set of Policy" for Intune - Understand WHAT should be configured and WHY on device based on all assigned apps, policies, scripts, groups and filters
+- **[Get-IntuneManagementExtensionDiagnostics](https://github.com/petripaavola/Get-IntuneManagementExtensionDiagnostics)** - Analyzes Intune IME logs and shows events in Timeline
+- **[Intune Management Tool](https://github.com/Micke-K/IntuneManagement)** - IntuneManagement is a powerful, community-developed PowerShell and WPF UI tool designed for managing Microsoft Intune environments at scale
 
 ### Configuration Manager Tools
 
 - **[ConfigMgr Client Center](https://github.com/rzander/sccmclictr)** - Client management and troubleshooting tool
 - **[CMPivot](https://learn.microsoft.com/en-us/mem/configmgr/core/servers/manage/cmpivot)** - Real-time query tool
 - **[Configuration Manager PowerShell Cmdlets](https://learn.microsoft.com/en-us/powershell/sccm/overview)** - Official cmdlets
-- **[OSD Toolkit](https://www.osdeploy.com/)** - OSD Front End by David Segura
 - **[Modern Driver Management](https://msendpointmgr.com/modern-driver-management/)** - Automated driver management solution
 - **[ConfigMgr Support Center](https://learn.microsoft.com/en-us/mem/configmgr/core/support/support-center)** - Troubleshooting toolkit
 - **[CMTrace Log Viewer](https://learn.microsoft.com/en-us/mem/configmgr/core/support/cmtrace)** - Essential log viewing tool
 
 ### PowerShell Tools & Modules
 
+-**[PSAI](https://github.com/dfinke/PSAI)** - PSAI bridges the gap between PowerShell and AI, enabling seamless integration for file searches, data analysis, and more
 - **[PowerShell Gallery](https://www.powershellgallery.com/)** - Repository for PowerShell modules
 - **[Microsoft Graph PowerShell SDK](https://learn.microsoft.com/en-us/powershell/microsoftgraph/overview)** - Interact with Microsoft Graph
 - **[Intune Graph API Samples](https://github.com/microsoftgraph/powershell-intune-samples)** - Example scripts for Intune automation
 - **[PSIntuneAuth Module](https://www.powershellgallery.com/packages/PSIntuneAuth/)** - Simplify Intune authentication
 - **[IntuneDocumentation Module](https://github.com/ThomasKur/IntuneDocumentation)** - Document your Intune configuration
 - **[ConfigMgr PowerShell Cmdlets Library](https://learn.microsoft.com/en-us/powershell/sccm/overview)** - Complete cmdlet reference
-- **[SCCM PowerShell Scripts Collection](https://github.com/topics/sccm-powershell)** - Community scripts on GitHub
 - **[ConfigMgr Client SDK](https://learn.microsoft.com/en-us/previous-versions/system-center/developer/cc143010(v=msdn.10))** - WMI classes for automation
 - **[PowerShell 7](https://github.com/PowerShell/PowerShell)** - Latest PowerShell version
 - **[Visual Studio Code](https://code.visualstudio.com/)** - Recommended code editor with PowerShell extension
 
+### Operating System Deployment 
+
+- **[OSD Cloud](https://www.osdcloud.com/)** - OSDCloud is a Community solution for deploying Windows 11 x64 over the internet using the OSDCloud or the OSD PowerShell Module
+- **[ConfigMgr OSD FrontEnd](https://msendpointmgr.com/configmgr-osd-frontend/)** - A frontend provides a graphical user interface for the common tasks that administrators and help desk personnel struggles with on a day to day basis using various custom made solutions
+- **[HyperPilot by Rubix](https://hyperpilot.getrubix.com/)** - Deploy Windows VMs in just three clicks with Hyper-V Integration
+
 ### General Community Tools
 
+- **[PowerShell Application Deployment Toolkit](https://psappdeploytoolkit.com/)** - A PowerShell-based framework to simplify and standardize deploying software to Windows, at scale.
 - **[Add Remove Programs](https://addremoveprograms.com/)** - An great resource for enterprise app packaging with a collection of nearly 9,000 apps. The site catalogs critical app info including install strings
-- **[WinAdmins Tools Collection](https://winadmins.io/tools)** - Curated list of community tools
-- **[MSEndpointMgr Tools](https://msendpointmgr.com/tools/)** - Free community tools and utilities
-- **[PSAppDeployToolkit](https://psappdeploytoolkit.com/)** - PowerShell-based application deployment framework
-- **[ModernWorkplace.Tools](https://modernworkplace.tools/)** - Collection of M365 and Intune utilities
 - **[AutoPilot](https://learn.microsoft.com/en-us/mem/autopilot/windows-autopilot)** - Modern device provisioning
 - **[Chocolatey](https://chocolatey.org/)** - Package manager for Windows
 
