@@ -162,7 +162,13 @@ A comprehensive collection of educational, informational, and networking resourc
 - **[Chocolatey](https://chocolatey.org/)** - Package manager for Windows
 
 ---
+## Books
 
+- **[Ultimate Microsoft Intune for Administrators](https://www.amazon.com/Ultimate-Microsoft-Intune-Administrators-Enterprise-ebook/dp/B0F2HBG12S)** - Ultimate Microsoft Intune for Administrators is a comprehensive guide co-authored by David Brook and Paul Winstanley
+- **[PowerShell in a Month of Lunches](https://www.amazon.com/Learn-PowerShell-Month-Lunches-Windows-dp-1617296961/dp/1617296961/ref=dp_ob_title_bk)** - Learn PowerShell in a Month of Lunches, Fourth Edition is a widely recommended, task-focused guide for beginners, designed to teach PowerShell fundamentals through bite-sized, hands-on lessons—each taking about an hour
+
+
+---
 ## Official Resources
 
 ### Microsoft Intune
