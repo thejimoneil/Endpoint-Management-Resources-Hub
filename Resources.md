@@ -15,6 +15,7 @@ A comprehensive collection of educational, informational, and networking resourc
 - [Webinars](#webinars)
 - [Blogs](#blogs)
 - [Community Tools](#community-tools)
+- [Books](#books)
 - [Official Resources](#official-resources)
 - [Contributing](#contributing)
 
