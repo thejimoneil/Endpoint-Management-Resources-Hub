@@ -37,6 +37,7 @@ A comprehensive collection of educational, informational, and networking resourc
 - **[Microsoft Ignite](https://ignite.microsoft.com/)** - Annual flagship Microsoft conference
 - **[Microsoft Build](https://build.microsoft.com/)** - Annual developer conference with endpoint management content
 - **[PowerShell + DevOps Global Summit](https://www.powershellsummit.org/)** - The gathering of PowerShell and DevOps professionals and enthusiasts. 3 day event happening yearly in Bellevue, WA
+- **[ExpertsLive Denmark](https://expertslive.dk/)** - Community-driven conference focused on Microsoft technologies including endpoint management, held annually in Denmark.
  
 
 ---
