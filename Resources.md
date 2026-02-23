@@ -138,7 +138,7 @@ A comprehensive collection of educational, informational, and networking resourc
 
 ### PowerShell Tools & Modules
 
--**[PSAI](https://github.com/dfinke/PSAI)** - PSAI bridges the gap between PowerShell and AI, enabling seamless integration for file searches, data analysis, and more
+- **[PSAI](https://github.com/dfinke/PSAI)** - PSAI bridges the gap between PowerShell and AI, enabling seamless integration for file searches, data analysis, and more
 - **[PowerShell Gallery](https://www.powershellgallery.com/)** - Repository for PowerShell modules
 - **[Microsoft Graph PowerShell SDK](https://learn.microsoft.com/en-us/powershell/microsoftgraph/overview)** - Interact with Microsoft Graph
 - **[Intune Graph API Samples](https://github.com/microsoftgraph/powershell-intune-samples)** - Example scripts for Intune automation
