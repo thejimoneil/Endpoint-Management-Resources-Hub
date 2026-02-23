@@ -23,7 +23,7 @@ A comprehensive collection of educational, informational, and networking resourc
 
 ## User Groups
 
-- **[Twin Cities Systems Management User Group (TCSMUG)](https://tcsmug.org)** - In-Person only user group that meets monthly covering a wide variety of endpiont management technolgies. Hosted at Microsft Technology Center in Edina, MN **[Join our Discord](https://discord.gg/QZwbW9Z6ya)**
+- **[Twin Cities Systems Management User Group (TCSMUG)](https://tcsmug.org)** - In-Person only user group that meets monthly covering a wide variety of endpoint management technologies. Hosted at Microsoft Technology Center in Edina, MN **[Join our Discord](https://discord.gg/QZwbW9Z6ya)**
 - **[Northwest System Center User Group (NWSCUG)](https://nwscug.org/)** - Virtual and in-person user group hosted at Microsoft Technology Center in Bellevue, WA
 - **[Research Triangle PowerShell Users Group](https://www.meetup.com/research-triangle-powershell-users-group/)** - The Research Triangle PowerShell Users Group is a community of IT administrators, engineers, managers, devops engineers, developers and anyone that has the interest to learn more about PowerShell and automation.
 - **[World of EUC](https://worldofeuc.org/)** - Various meetups around the US and Europe
@@ -33,8 +33,8 @@ A comprehensive collection of educational, informational, and networking resourc
 
 ## Conferences
 
-- **[Midwest Management Summit (MMS)](https://mmsmoa.com/)** - Premier ConfigMgr/Intune and all things endpoint management conference. Takes place the first week in May at the Mall of America (4 days) and in the Fall at varous locations around the United States (3 days).
-- **[Workpalce Ninjas US](https://workplaceninjas.us/)** - 2 day enpoint management confrence
+- **[Midwest Management Summit (MMS)](https://mmsmoa.com/)** - Premier ConfigMgr/Intune and all things endpoint management conference. Takes place the first week in May at the Mall of America (4 days) and in the Fall at various locations around the United States (3 days).
+- **[Workplace Ninjas US](https://workplaceninjas.us/)** - 2 day endpoint management conference
 - **[Microsoft Ignite](https://ignite.microsoft.com/)** - Annual flagship Microsoft conference
 - **[Microsoft Build](https://build.microsoft.com/)** - Annual developer conference with endpoint management content
 - **[PowerShell + DevOps Global Summit](https://www.powershellsummit.org/)** - The gathering of PowerShell and DevOps professionals and enthusiasts. 3 day event happening yearly in Bellevue, WA
@@ -45,15 +45,15 @@ A comprehensive collection of educational, informational, and networking resourc
 
 ## Media & Podcasts
 
-- **[ViaMonstra Online Academy](https://www.youtube.com/c/IntuneTraining)** - Office hours live every Wednesday at 4:30pm central. The home for evergreen training.Offering courses on ConfigMgr, MDT, Intune, Azure, PowerShell, MDT, and More!
+- **[ViaMonstra Online Academy](https://www.youtube.com/c/IntuneTraining)** - Office hours live every Wednesday at 4:30pm central. The home for evergreen training. Offering courses on ConfigMgr, MDT, Intune, Azure, PowerShell, MDT, and More!
 - **[John Savill's Technical Training](https://www.youtube.com/@NTFAQGuy)** - This channel focuses on videos designed to help you learn. Big focus on Azure, AI, DevOps, PowerShell and other Microsoft technologies but also some virtual mentoring content! 
 - **[Get Rubix aka Steve Weiner](https://www.youtube.com/@getrubix)** - Intune focused channel with a fair bit of humor thrown in.
 - **[Dean Ellerby MVP](https://www.youtube.com/@DeanEllerbyMVP)** - A mixture of Microsoft Intune Training Content and Microsoft Security Training Content. 
 - **[Patch My PC](https://www.youtube.com/@PatchMyPC)** - Check you Patch Tuesday for patching related videos, Patch Me if You Can for super deep-dives, plus an archive of great ConfigMgr tutorials.
 - **[Recast Software](https://www.youtube.com/@RecastSoftware)** - Published webinars of Intune and ConfigMgr content
-- **[Diary of a Sysadmin](https://www.youtube.com/@DiaryofSysadmin)** - Fabian does a great job of interviewing people in the community highliting career journeys and day in the life type stories
+- **[Diary of a Sysadmin](https://www.youtube.com/@DiaryofSysadmin)** - Fabian does a great job of interviewing people in the community highligting career journeys and day in the life type stories
 - **[Microsoft Mechanics](https://www.youtube.com/user/OfficeGarageSeries)** - Official Microsoft technical content
-- **[PowerShell Podcast/PDQ](https://www.youtube.com/@pdq/videos)** - Andrew Pla hosts the Powershell Pocast and the content is hosted on PDQ's youtube channel
+- **[PowerShell Podcast/PDQ](https://www.youtube.com/@pdq/videos)** - Andrew Pla hosts the Powershell Podcast and the content is hosted on PDQ's youtube channel
 - **[Research Triangle PowerShell User-Group Channel](https://www.youtube.com/@RTPSUG/videos)** - Recorded user-group meetings
 - **[RunAsRadio](https://www.runasradio.com/)** - IT pro podcast featuring endpoint management topics
 - **[Intune.Training YouTube](https://www.youtube.com/@IntuneTraining)** - Training videos and walkthroughs
@@ -100,7 +100,7 @@ A comprehensive collection of educational, informational, and networking resourc
 - **[Niall Brady's Blog (Windows Noob)](https://www.windows-noob.com/)** - Step-by-step tutorials
 - **[Prajwal Desai's Blog](https://www.prajwaldesai.com/)** - ConfigMgr and Intune guides
 - **[GARYTOWN ConfigMgr Blog](https://garytown.com/)** - Scripts, guides, and community content
-- **[Merrill.net](https://blog.merill.net/)** - Identity, Graph, and creator of some serously awesome tools
+- **[Merrill.net](https://blog.merill.net/)** - Identity, Graph, and creator of some seriously awesome tools
 - **[PowerShell.org](https://powershell.org/)** - Community resources and forums
 - **[PowerShell Explained](https://powershellexplained.com/)** - Comprehensive guides by Kevin Marquette
 - **[AdamTheAutomator](https://adamtheautomator.com/powershell/)** - PowerShell tutorials and guides
