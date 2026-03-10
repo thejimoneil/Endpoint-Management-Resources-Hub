@@ -159,6 +159,7 @@ A comprehensive collection of educational, informational, and networking resourc
 
 - **[PowerShell Application Deployment Toolkit](https://psappdeploytoolkit.com/)** - A PowerShell-based framework to simplify and standardize deploying software to Windows, at scale.
 - **[Add Remove Programs](https://addremoveprograms.com/)** - An great resource for enterprise app packaging with a collection of nearly 9,000 apps. The site catalogs critical app info including install strings
+- **[Silent Install HQ](https://silentinstallhq.com/)** - A great site maintained by Jason with handy silent install information helpful in packaging.
 - **[AutoPilot](https://learn.microsoft.com/en-us/mem/autopilot/windows-autopilot)** - Modern device provisioning
 - **[Chocolatey](https://chocolatey.org/)** - Package manager for Windows
 
