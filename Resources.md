@@ -162,6 +162,7 @@ A comprehensive collection of educational, informational, and networking resourc
 - **[Silent Install HQ](https://silentinstallhq.com/)** - A great site maintained by Jason with handy silent install information helpful in packaging.
 - **[AutoPilot](https://learn.microsoft.com/en-us/mem/autopilot/windows-autopilot)** - Modern device provisioning
 - **[Chocolatey](https://chocolatey.org/)** - Package manager for Windows
+- **[PatchMyPC Community Scripts](https://github.com/PatchMyPCTeam/Community-Scripts)** - A community-maintained collection of scripts contributed by the Patch My PC community to help with packaging, deployment, and endpoint management tasks
 
 ---
 ## Books
