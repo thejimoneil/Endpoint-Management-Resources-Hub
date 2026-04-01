@@ -155,6 +155,10 @@ A comprehensive collection of educational, informational, and networking resourc
 - **[ConfigMgr OSD FrontEnd](https://msendpointmgr.com/configmgr-osd-frontend/)** - A frontend provides a graphical user interface for the common tasks that administrators and help desk personnel struggles with on a day to day basis using various custom made solutions
 - **[HyperPilot by Rubix](https://hyperpilot.getrubix.com/)** - Deploy Windows VMs in just three clicks with Hyper-V Integration
 
+### macOS Tools
+
+- **[IntuneBrew](https://www.intunebrew.com/)** - A community-built tool that simplifies deploying and managing macOS applications through Microsoft Intune, providing pre-built, ready-to-deploy app packages for a wide catalog of popular macOS applications
+
 ### General Community Tools
 
 - **[PowerShell Application Deployment Toolkit](https://psappdeploytoolkit.com/)** - A PowerShell-based framework to simplify and standardize deploying software to Windows, at scale.
