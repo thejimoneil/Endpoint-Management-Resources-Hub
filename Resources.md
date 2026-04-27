@@ -116,6 +116,7 @@ A comprehensive collection of educational, informational, and networking resourc
 
 - **[Graph X-Ray](https://graphxray.merill.net/)** - Browser extension created by Merill that shows actions in the console as Graph API calls
 - **[CMD.MS](https://cmd.ms/)** - All of the Microsoft portals in one easy CMD, another tool by Merill
+- **[Awesome Intune](https://www.awesomeintune.com/)** - Curated discovery platform for Microsoft Intune tools, scripts, and community resources
 - **[IntuneWin32App](https://github.com/MSEndpointMgr/IntuneWin32App)** - A fantastic Powershell module for creating and managing win32 apps in Intune by Nickolaj Andersen
 - **[EUC Toolbox by Andrew Taylor](https://euctoolbox.com/)** - Suite of free apps we have you covered from initial tenant setup, through to management and monitoring
 - **[Microsoft Intune App Wrapping Tool](https://learn.microsoft.com/en-us/mem/intune/developer/apps-prepare-mobile-application-management)** - Wrap apps for MAM
