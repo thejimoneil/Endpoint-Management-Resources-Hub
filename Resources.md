@@ -155,6 +155,7 @@ A comprehensive collection of educational, informational, and networking resourc
 - **[OSD Cloud](https://www.osdcloud.com/)** - OSDCloud is a Community solution for deploying Windows 11 x64 over the internet using the OSDCloud or the OSD PowerShell Module
 - **[ConfigMgr OSD FrontEnd](https://msendpointmgr.com/configmgr-osd-frontend/)** - A frontend provides a graphical user interface for the common tasks that administrators and help desk personnel struggles with on a day to day basis using various custom made solutions
 - **[HyperPilot by Rubix](https://hyperpilot.getrubix.com/)** - Deploy Windows VMs in just three clicks with Hyper-V Integration
+- **[Driver Automation Tool](https://www.driverautomationtool.com/)** - A powerful GUI-based tool by Maurice Daly that automates the downloading, extracting, and packaging of device drivers from manufacturers such as HP, Dell, Lenovo, and Microsoft. Supports Configuration Manager, MDT, and Intune deployments, keeping endpoint driver packages consistently up to date with minimal manual effort.
 
 ### macOS Tools
 
