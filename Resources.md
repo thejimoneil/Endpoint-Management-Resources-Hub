@@ -127,6 +127,9 @@ A comprehensive collection of educational, informational, and networking resourc
 - **[IntuneDeviceDetailsGUI](https://github.com/petripaavola/IntuneDeviceDetailsGUI#intune-device-details-gui-ver-2974-updated-1932023)** - The "Resultant Set of Policy" for Intune - Understand WHAT should be configured and WHY on device based on all assigned apps, policies, scripts, groups and filters
 - **[Get-IntuneManagementExtensionDiagnostics](https://github.com/petripaavola/Get-IntuneManagementExtensionDiagnostics)** - Analyzes Intune IME logs and shows events in Timeline
 - **[Intune Management Tool](https://github.com/Micke-K/IntuneManagement)** - IntuneManagement is a powerful, community-developed PowerShell and WPF UI tool designed for managing Microsoft Intune environments at scale
+- **[M365 Visual Roadmap](https://m365visualroadmap.net/)** - A visual, timeline-based view of the official Microsoft 365 roadmap, making it easy to track upcoming feature releases and changes across M365 services including Intune
+- **[GetCurrent Update Tracker](https://updates.getcurrent.cloud/)** - A community-maintained tracker that surfaces the latest Windows and Microsoft product update information in a clean, at-a-glance format for endpoint administrators
+- **[Intune Settings App](https://intunesettings.app/)** - A searchable reference for Intune configuration profiles and settings catalog entries, helping admins quickly find and understand available policy settings
 
 ### Configuration Manager Tools
 
